@@ -1,22 +1,29 @@
 {
-  "name": "electron-quick-start",
-  "version": "1.0.0",
-  "description": "A minimal Electron application",
-  "main": "main.js",
-  "scripts": {
-    "start": "electron ."
+  "name": "electron-vue",
+  "version": "0.0.0",
+  "description": "An Electron & Vue.js quick start boilerplate with vue-cli support",
+  "main": "meta.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SimulatedGREG/electron-vue.git"
   },
-  "repository": "https://github.com/electron/electron-quick-start",
   "keywords": [
-    "Electron",
-    "quick",
-    "start",
-    "tutorial",
-    "demo"
+    "electron",
+    "vue",
+    "boilerplate",
+    "hot",
+    "reload",
+    "router",
+    "vuex",
+    "resource"
   ],
-  "author": "GitHub",
-  "license": "CC0-1.0",
+  "author": "Greg Holguin <simulatedgreg@gmail.com> (https://github.com/SimulatedGREG)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SimulatedGREG/electron-vue/issues"
+  },
+  "homepage": "https://github.com/SimulatedGREG/electron-vue#readme",
   "devDependencies": {
-    "electron": "^1.4.1"
+    "suppose": "^0.6.1"
   }
 }
