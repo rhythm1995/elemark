@@ -16,4 +16,21 @@ npm install
 # Run the app
 npm start
 ```
+
+# elemark
+
+**一个使用Electron和Vue.js构建的markdown编辑器**
+
+## 使用方法
+
+```bash
+# Clone项目
+git clone https://github.com/rhythm1995/elemark
+# 进入项目目录
+cd elemark
+# 安装依赖包
+npm install
+# 启动应用
+npm start
+```
 #### License [CC0 1.0 (Public Domain)](LICENSE.md)
