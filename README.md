@@ -16,6 +16,7 @@ npm install
 # Run the app
 npm start
 ```
+#### License [CC0 1.0 (Public Domain)](LICENSE.md)
 
 # elemark
 
@@ -33,4 +34,4 @@ npm install
 # 启动应用
 npm start
 ```
-#### License [CC0 1.0 (Public Domain)](LICENSE.md)
+#### 使用开源协议[CC0 1.0 (Public Domain)](LICENSE.md)
