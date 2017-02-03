@@ -14,7 +14,7 @@ cd elemark
 # Install dependencies
 npm install
 # Run the app
-npm start
+npm run dev
 ```
 #### License [CC0 1.0 (Public Domain)](LICENSE.md)
 
@@ -32,6 +32,6 @@ cd elemark
 # 安装依赖包
 npm install
 # 启动应用
-npm start
+npm run dev
 ```
 #### 使用开源协议[CC0 1.0 (Public Domain)](LICENSE.md)
